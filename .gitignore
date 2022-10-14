@@ -129,19 +129,7 @@ dmypy.json
 .pyre/
 
 # Images
-images/*.png
-images/*.jpg
-images/*.jpeg
-images/*.xml
+images
 
-# Train
-images/train/*.png
-images/train/*.jpg
-images/train/*.jpeg
-images/train/*.xml
-
-# Test
-images/test/*.png
-images/test/*.jpg
-images/test/*.jpeg
-images/test/*.xml
+# Annotations
+annotations
