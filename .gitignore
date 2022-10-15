@@ -136,3 +136,6 @@ annotations/*.pbtxt
 
 # TFRecords
 annotations/*.record
+
+# Pre-Trained Model
+pre-trained-models/*
