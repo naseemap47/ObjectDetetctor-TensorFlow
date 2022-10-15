@@ -132,4 +132,7 @@ dmypy.json
 images
 
 # Annotations
-annotations
+annotations/*.pbtxt
+
+# TFRecords
+annotations/*.record
