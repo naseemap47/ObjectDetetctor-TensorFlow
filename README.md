@@ -72,3 +72,9 @@ Model name                                                                      
 [Mask R-CNN Inception ResNet V2 1024x1024](http://download.tensorflow.org/models/object_detection/tf2/20200711/mask_rcnn_inception_resnet_v2_1024x1024_coco17_gpu-8.tar.gz) |    301      | 39.0/34.6           | Boxes/Masks
 [ExtremeNet (deprecated)](http://download.tensorflow.org/models/object_detection/tf2/20200711/extremenet.tar.gz)                                                                         | --         | --           | Boxes
 [ExtremeNet](http://download.tensorflow.org/models/object_detection/tf2/20210507/extremenet.tar.gz)| --         | --           | Boxes
+
+## Untar Pre-Trained Model
+```
+tar -xvzf pre-trained-models/<path_to_.tar.gz> -C pre-trained-models/
+rm pre-trained-models/<path_to_.tar.gz>
+```
